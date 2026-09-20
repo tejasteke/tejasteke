@@ -1,6 +1,5 @@
 # Hi, I'm Tejas Teke 
 
-
 Data Analyst | Python • SQL • Power BI • Machine Learning
 
 ##  Who am I?
@@ -10,20 +9,38 @@ data into business insight. I enjoy digging past headline numbers to find
 the story underneath — whether that's spotting margin erosion hidden inside
 strong revenue growth, or automating a report that used to take hours.
 
-Organizing completed work versus work still in progress.
-Organizing completed work versus work still in progress.
+What I really enjoy is chasing the "why" behind the data — why something
+is happening, what's driving it, and what could actually fix it. The
+numbers are just where I start; the interesting part is following them
+until they turn into something someone can act on.
 
-What I did?
+## What I did
 
-Clinic Performance & Profitability Analysis | Power BI — analyzed 2,000 dental appointments generating $937,624 revenue and 20.5% profit margin; identified Chicago's 4.11% margin as the lowest (avg. cost $456.02 vs $372.62 overall, wait time 49.2 min); found a $61,340 NY–LA revenue gap despite similar volumes (556 vs 560), tied to treatment mix (228 vs 94 whitening appointments, 39.97% vs 10.09% margins for whitening vs cleaning); found dentist profitability varying widely by location (D5 ranging 4.11%–27.44%), challenging simple dentist-level comparisons
-Retail sales & profitability analysis on 5,900+ records (Pandas/NumPy) that uncovered a 62% regional profit decline masked by strong sales growth
-Solved 80+ algorithmic challenges to strengthen problem-solving skills
+**Clinic Performance & Profitability Analysis | Power BI**
+Analyzed 2,000 dental appointments generating $937,624 revenue and 20.5%
+profit margin. Identified Chicago's 4.11% margin as the lowest (avg. cost
+$456.02 vs $372.62 overall, wait time 49.2 min). Found a $61,340 NY–LA
+revenue gap despite similar volumes (556 vs 560), tied to treatment mix
+(228 vs 94 whitening appointments, 39.97% vs 10.09% margins for whitening
+vs cleaning). Found dentist profitability varying widely by location (D5
+ranging 4.11%–27.44%), challenging simple dentist-level comparisons.
 
-What I'm currently working on?
+**Retail Sales & Profitability Analysis | Python (Pandas/NumPy)**
+Analyzed 5,900+ records and uncovered a 62% regional profit decline masked
+by strong sales growth.
 
-Building interactive Power BI dashboards with Power Query and advanced DAX measures for KPI tracking, scorecards, and drill-through reporting
-A data analysis project using SQL and Python, built around 5 core libraries — sqlite3, pandas, numpy, matplotlib, and seaborn — covering querying, data cleaning, analysis, and visualization end to end
-Practicing machine learning fundamentals (classification, regression) with Scikit-learn, including data preprocessing and model evaluation
+**Problem-Solving Practice**
+Solved 80+ algorithmic challenges to strengthen problem-solving skills.
+
+##  What I'm currently working on
+
+- Building interactive Power BI dashboards with Power Query and advanced
+  DAX measures for KPI tracking, scorecards, and drill-through reporting
+- A data analysis project using SQL and Python, built around 5 core
+  libraries — sqlite3, pandas, numpy, matplotlib, and seaborn — covering
+  querying, data cleaning, analysis, and visualization end to end
+- Practicing machine learning fundamentals (classification, regression)
+  with Scikit-learn, including data preprocessing and model evaluation
 
 ##  Tools & Technologies
 
